@@ -6,5 +6,5 @@ exit 1
 fi
 
 docker run --rm -it \
-    -v "C:\Users\enter\Desktop\Terraform":/home \
+    -v "C:\Users\xxxxxxx\xxxxxx":/home \
     ${IMAGE_NAME}
